@@ -13,7 +13,7 @@ Plataforma web de **adoção responsável** que conecta cães, gatos e outros pe
 ![WhatsApp](https://img.shields.io/badge/Adoção%20via-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Online-ef765f?style=for-the-badge)
 
-[💬 Falar no WhatsApp](https://wa.me/5511947489497) · [🐞 Reportar um problema](../../issues)
+[💬 Falar no WhatsApp](https://wa.me/5511947489497) · [🐞 Reportar um problema](https://wa.me/5511947489497)
 
 </div>
 
