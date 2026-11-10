@@ -87,8 +87,8 @@ O projeto foi desenvolvido em equipe, com as responsabilidades divididas da segu
 | Integrante | Responsabilidades |
 |---|---|
 | **Leonardo** | Design (identidade visual e telas), automações e implementação dos animais na plataforma |
-| **Thiago** | Workflows, design e programação básica |
-| **Alexandre** | Workflows (em conjunto com o Thiago) |
+| **Thiago** | Workflows, design, automoções e programação básica |
+| **Alexandre** | Workflows (em conjunto com o Thiago), Login |
 
 ---
 
