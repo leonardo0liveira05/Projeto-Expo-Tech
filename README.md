@@ -23,7 +23,7 @@ A **AdotaPet** é uma rede independente de proteção animal que resgata, trata 
 
 O projeto foi construído no **Bubble**, usando **no-code**, para ser simples, acolhedor e fácil de manter pela equipe do abrigo, sem depender de programadores.
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > **A adoção não é feita diretamente pelo sistema.**
 > Todos os botões de adoção levam o usuário ao **WhatsApp da AdotaPet**, onde a equipe conduz a conversa, a entrevista e o agendamento da visita ao abrigo.
 
