@@ -19,22 +19,6 @@ Plataforma web de **adoção responsável** que conecta cães, gatos e outros pe
 
 ---
 
-## 📸 Preview
-
-<div align="center">
-
-<!-- Substitua pelos prints do seu projeto -->
-<img src="docs/preview-home.png" alt="Página inicial da AdotaPet" width="80%">
-
-<br><br>
-
-<img src="docs/preview-catalogo.png" alt="Catálogo de animais" width="39%">
-<img src="docs/preview-perfil.png" alt="Perfil de um animal" width="39%">
-
-</div>
-
----
-
 ## 💡 Sobre o projeto
 
 A **AdotaPet** é uma rede independente de proteção animal que resgata, trata e prepara animais para encontrarem famílias responsáveis. Este site funciona como uma **vitrine digital**: o visitante conhece os animais disponíveis, lê a história de cada um e, se quiser adotar, fala diretamente com a equipe.
