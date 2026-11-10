@@ -45,14 +45,6 @@ O projeto foi construído no **Bubble**, usando **no-code**, para ser simples, a
 | 🤝 **Formas de ajudar** | Lar temporário, doações e voluntariado |
 | 📍 **Contato** | Telefone, e-mail, endereço, horário e mapa |
 
-### 🛠️ Para a equipe (área administrativa)
-
-- 🔐 Acesso restrito pelo botão **"Trabalha aqui?"**
-- ➕ Cadastro de novos animais com várias fotos de uma só vez
-- ✏️ Edição de status e fotos
-- 🗑️ Exclusão de animais
-- 📊 Painel com o resumo: total, disponíveis, em tratamento e adotados
-
 ---
 
 ## 💬 Como funciona a adoção
